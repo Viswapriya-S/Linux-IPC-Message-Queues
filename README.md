@@ -88,10 +88,7 @@ int main()
 
 
 ## OUTPUT
-<img width="764" height="76" alt="Screenshot from 2026-02-13 08-56-33" src="https://github.com/user-attachments/assets/fa7117dc-8dde-4315-ae9d-f602dce3efc5" />
-
-<img width="809" height="325" alt="Screenshot from 2026-02-13 08-55-35" src="https://github.com/user-attachments/assets/c7e7d71d-0210-4859-8cce-a700fd2fdfcc" />
-
+<img width="903" height="400" alt="Screenshot from 2026-02-13 09-19-28" src="https://github.com/user-attachments/assets/52f10101-ffb2-42e6-8e7a-9bc60c16f7a5" />
 
 
 # RESULT:
